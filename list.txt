@@ -7,3 +7,7 @@ www.msftconnecttest.com
 www.msftncsi.com
 apple.com
 captive.apple.com
+ocsp.apple.com
+gstatic.com
+msftconnecttest.com
+msftncsi.com
