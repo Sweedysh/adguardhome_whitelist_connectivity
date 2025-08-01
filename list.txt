@@ -1,0 +1,9 @@
+connectivitycheck.gstatic.com
+clients3.google.com
+captive.apple.com
+www.msftconnecttest.com
+www.msftncsi.com
+gstatic.com
+google.com
+tiktokcdn.com
+tiktokv.com
