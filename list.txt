@@ -1,9 +1,9 @@
 connectivitycheck.gstatic.com
 clients3.google.com
-captive.apple.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
 www.msftconnecttest.com
 www.msftncsi.com
-gstatic.com
-google.com
-tiktokcdn.com
-tiktokv.com
+apple.com
+captive.apple.com
